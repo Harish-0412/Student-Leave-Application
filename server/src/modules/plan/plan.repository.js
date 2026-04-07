@@ -1,20 +1,10 @@
-const fs = require('fs').promises;
 const path = require('path');
+const { readJsonFile, writeJsonFile } = require('../../shared/utils/file-db');
 
 const PLANS_FILE = path.join(__dirname, '../../data/plans.json');
 
-const readPlans = async () => {
-  try {
-    const data = await fs.readFile(PLANS_FILE, 'utf8');
-    return JSON.parse(data);
-  } catch {
-    return [];
-  }
-};
-
-const writePlans = async (plans) => {
-  await fs.writeFile(PLANS_FILE, JSON.stringify(plans, null, 2));
-};
+const readPlans = () => readJsonFile(PLANS_FILE);
+const writePlans = (plans) => writeJsonFile(PLANS_FILE, plans);
 
 const findByStudentId = async (studentId) => {
   const plans = await readPlans();
