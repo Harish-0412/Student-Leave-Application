@@ -1,0 +1,32 @@
+[
+  {
+    "id": "roqulztxs",
+    "studentId": "033",
+    "studentName": "Harish",
+    "studentEmail": "harish@gmail.com",
+    "department": "AIML",
+    "semester": "4",
+    "reason": "NPTEL Exam",
+    "supportingDetails": "Examination",
+    "contactWhileAway": "6359897894",
+    "fromDate": "2026-04-07",
+    "toDate": "2026-04-09",
+    "startDate": "2026-04-07T04:28:51.533Z",
+    "endDate": "2026-04-09T04:28:51.533Z",
+    "numberOfDays": 3,
+    "days": 3,
+    "finalDrafts": {},
+    "generatedDrafts": {},
+    "leaveImpact": null,
+    "draftPreferences": {
+      "tone": "formal",
+      "format": "email",
+      "userEdits": ""
+    },
+    "letter": "Dear Sir/Madam,\n\nI am writing to request leave from 2026-04-07T04:28:51.533Z to 2026-04-09T04:28:51.533Z due to NPTEL Exam.\n\nSincerely,\nHarish",
+    "status": "approved",
+    "submittedAt": "2026-04-07T04:29:30.613Z",
+    "planAdjustedApproved": true,
+    "updatedAt": "2026-04-07T04:29:58.206Z"
+  }
+]

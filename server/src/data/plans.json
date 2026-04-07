@@ -1,0 +1,1962 @@
+[
+  {
+    "studentId": "033",
+    "generatedAt": "2026-04-07T04:28:41.554Z",
+    "startDate": "2026-04-06T18:30:00.000Z",
+    "durationDays": 30,
+    "subjects": [
+      "FSD",
+      "ML",
+      "DS"
+    ],
+    "days": [
+      {
+        "date": "2026-04-06T18:30:00.000Z",
+        "dateKey": "2026-04-06",
+        "dayNumber": 1,
+        "status": "absent",
+        "classes": [],
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "missedClasses": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-07T18:30:00.000Z",
+        "dateKey": "2026-04-07",
+        "dayNumber": 2,
+        "status": "approved",
+        "classes": [],
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "missedClasses": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-08T18:30:00.000Z",
+        "dateKey": "2026-04-08",
+        "dayNumber": 3,
+        "status": "approved",
+        "classes": [],
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "missedClasses": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-09T18:30:00.000Z",
+        "dateKey": "2026-04-09",
+        "dayNumber": 4,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "DOM events and interactive components",
+            "description": "FSD session focused on dom events and interactive components.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Classification models and evaluation",
+            "description": "ML session focused on classification models and evaluation.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Hash maps and set operations",
+            "description": "DS session focused on hash maps and set operations.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-10T18:30:00.000Z",
+        "dateKey": "2026-04-10",
+        "dayNumber": 5,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React component structure and props",
+            "description": "FSD session focused on react component structure and props.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model metrics and validation strategies",
+            "description": "ML session focused on model metrics and validation strategies.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Trees and traversal methods",
+            "description": "DS session focused on trees and traversal methods.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-11T18:30:00.000Z",
+        "dateKey": "2026-04-11",
+        "dayNumber": 6,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React state, forms, and controlled inputs",
+            "description": "FSD session focused on react state, forms, and controlled inputs.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Feature engineering and tuning",
+            "description": "ML session focused on feature engineering and tuning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Binary search trees and balancing concepts",
+            "description": "DS session focused on binary search trees and balancing concepts.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-12T18:30:00.000Z",
+        "dateKey": "2026-04-12",
+        "dayNumber": 7,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Routing and multi-page application flow",
+            "description": "FSD session focused on routing and multi-page application flow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Decision trees and ensemble methods",
+            "description": "ML session focused on decision trees and ensemble methods.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Graphs, BFS, and DFS",
+            "description": "DS session focused on graphs, bfs, and dfs.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-13T18:30:00.000Z",
+        "dateKey": "2026-04-13",
+        "dayNumber": 8,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "API integration and async data loading",
+            "description": "FSD session focused on api integration and async data loading.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Clustering and unsupervised learning",
+            "description": "ML session focused on clustering and unsupervised learning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Greedy techniques and recursion patterns",
+            "description": "DS session focused on greedy techniques and recursion patterns.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-14T18:30:00.000Z",
+        "dateKey": "2026-04-14",
+        "dayNumber": 9,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Authentication flow and protected routes",
+            "description": "FSD session focused on authentication flow and protected routes.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model interpretation and bias checks",
+            "description": "ML session focused on model interpretation and bias checks.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Dynamic programming foundations",
+            "description": "DS session focused on dynamic programming foundations.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-15T18:30:00.000Z",
+        "dateKey": "2026-04-15",
+        "dayNumber": 10,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "UI polishing, testing, and deployment",
+            "description": "FSD session focused on ui polishing, testing, and deployment.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Mini project review and recap",
+            "description": "ML session focused on mini project review and recap.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Mock coding practice and revision",
+            "description": "DS session focused on mock coding practice and revision.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-16T18:30:00.000Z",
+        "dateKey": "2026-04-16",
+        "dayNumber": 11,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-17T18:30:00.000Z",
+        "dateKey": "2026-04-17",
+        "dayNumber": 12,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-18T18:30:00.000Z",
+        "dateKey": "2026-04-18",
+        "dayNumber": 13,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-19T18:30:00.000Z",
+        "dateKey": "2026-04-19",
+        "dayNumber": 14,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "DOM events and interactive components",
+            "description": "FSD session focused on dom events and interactive components.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Classification models and evaluation",
+            "description": "ML session focused on classification models and evaluation.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Hash maps and set operations",
+            "description": "DS session focused on hash maps and set operations.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-20T18:30:00.000Z",
+        "dateKey": "2026-04-20",
+        "dayNumber": 15,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React component structure and props",
+            "description": "FSD session focused on react component structure and props.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model metrics and validation strategies",
+            "description": "ML session focused on model metrics and validation strategies.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Trees and traversal methods",
+            "description": "DS session focused on trees and traversal methods.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-21T18:30:00.000Z",
+        "dateKey": "2026-04-21",
+        "dayNumber": 16,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React state, forms, and controlled inputs",
+            "description": "FSD session focused on react state, forms, and controlled inputs.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Feature engineering and tuning",
+            "description": "ML session focused on feature engineering and tuning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Binary search trees and balancing concepts",
+            "description": "DS session focused on binary search trees and balancing concepts.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-22T18:30:00.000Z",
+        "dateKey": "2026-04-22",
+        "dayNumber": 17,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Routing and multi-page application flow",
+            "description": "FSD session focused on routing and multi-page application flow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Decision trees and ensemble methods",
+            "description": "ML session focused on decision trees and ensemble methods.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Graphs, BFS, and DFS",
+            "description": "DS session focused on graphs, bfs, and dfs.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-23T18:30:00.000Z",
+        "dateKey": "2026-04-23",
+        "dayNumber": 18,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "API integration and async data loading",
+            "description": "FSD session focused on api integration and async data loading.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Clustering and unsupervised learning",
+            "description": "ML session focused on clustering and unsupervised learning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Greedy techniques and recursion patterns",
+            "description": "DS session focused on greedy techniques and recursion patterns.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-24T18:30:00.000Z",
+        "dateKey": "2026-04-24",
+        "dayNumber": 19,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Authentication flow and protected routes",
+            "description": "FSD session focused on authentication flow and protected routes.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model interpretation and bias checks",
+            "description": "ML session focused on model interpretation and bias checks.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Dynamic programming foundations",
+            "description": "DS session focused on dynamic programming foundations.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-25T18:30:00.000Z",
+        "dateKey": "2026-04-25",
+        "dayNumber": 20,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "UI polishing, testing, and deployment",
+            "description": "FSD session focused on ui polishing, testing, and deployment.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Mini project review and recap",
+            "description": "ML session focused on mini project review and recap.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Mock coding practice and revision",
+            "description": "DS session focused on mock coding practice and revision.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-26T18:30:00.000Z",
+        "dateKey": "2026-04-26",
+        "dayNumber": 21,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-27T18:30:00.000Z",
+        "dateKey": "2026-04-27",
+        "dayNumber": 22,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-28T18:30:00.000Z",
+        "dateKey": "2026-04-28",
+        "dayNumber": 23,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-29T18:30:00.000Z",
+        "dateKey": "2026-04-29",
+        "dayNumber": 24,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "DOM events and interactive components",
+            "description": "FSD session focused on dom events and interactive components.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Classification models and evaluation",
+            "description": "ML session focused on classification models and evaluation.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Hash maps and set operations",
+            "description": "DS session focused on hash maps and set operations.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-30T18:30:00.000Z",
+        "dateKey": "2026-04-30",
+        "dayNumber": 25,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React component structure and props",
+            "description": "FSD session focused on react component structure and props.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model metrics and validation strategies",
+            "description": "ML session focused on model metrics and validation strategies.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Trees and traversal methods",
+            "description": "DS session focused on trees and traversal methods.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-01T18:30:00.000Z",
+        "dateKey": "2026-05-01",
+        "dayNumber": 26,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React state, forms, and controlled inputs",
+            "description": "FSD session focused on react state, forms, and controlled inputs.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Feature engineering and tuning",
+            "description": "ML session focused on feature engineering and tuning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Binary search trees and balancing concepts",
+            "description": "DS session focused on binary search trees and balancing concepts.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-02T18:30:00.000Z",
+        "dateKey": "2026-05-02",
+        "dayNumber": 27,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Routing and multi-page application flow",
+            "description": "FSD session focused on routing and multi-page application flow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Decision trees and ensemble methods",
+            "description": "ML session focused on decision trees and ensemble methods.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Graphs, BFS, and DFS",
+            "description": "DS session focused on graphs, bfs, and dfs.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-03T18:30:00.000Z",
+        "dateKey": "2026-05-03",
+        "dayNumber": 28,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "API integration and async data loading",
+            "description": "FSD session focused on api integration and async data loading.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Clustering and unsupervised learning",
+            "description": "ML session focused on clustering and unsupervised learning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Greedy techniques and recursion patterns",
+            "description": "DS session focused on greedy techniques and recursion patterns.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-04T18:30:00.000Z",
+        "dateKey": "2026-05-04",
+        "dayNumber": 29,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Authentication flow and protected routes",
+            "description": "FSD session focused on authentication flow and protected routes.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model interpretation and bias checks",
+            "description": "ML session focused on model interpretation and bias checks.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Dynamic programming foundations",
+            "description": "DS session focused on dynamic programming foundations.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-05T18:30:00.000Z",
+        "dateKey": "2026-05-05",
+        "dayNumber": 30,
+        "status": "scheduled",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "UI polishing, testing, and deployment",
+            "description": "FSD session focused on ui polishing, testing, and deployment.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Mini project review and recap",
+            "description": "ML session focused on mini project review and recap.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Mock coding practice and revision",
+            "description": "DS session focused on mock coding practice and revision.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-06T18:30:00.000Z",
+        "dateKey": "2026-05-06",
+        "dayNumber": 31,
+        "status": "rescheduled",
+        "leaveId": "roqulztxs",
+        "rescheduledFrom": "2026-04-06",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-06"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-06"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice",
+            "rescheduledFrom": "2026-04-06"
+          }
+        ],
+        "leaveReason": "NPTEL Exam"
+      },
+      {
+        "date": "2026-05-07T18:30:00.000Z",
+        "dateKey": "2026-05-07",
+        "dayNumber": 32,
+        "status": "rescheduled",
+        "leaveId": "roqulztxs",
+        "rescheduledFrom": "2026-04-07",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-07"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-07"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice",
+            "rescheduledFrom": "2026-04-07"
+          }
+        ],
+        "leaveReason": "NPTEL Exam"
+      },
+      {
+        "date": "2026-05-08T18:30:00.000Z",
+        "dateKey": "2026-05-08",
+        "dayNumber": 33,
+        "status": "rescheduled",
+        "leaveId": "roqulztxs",
+        "rescheduledFrom": "2026-04-08",
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-08"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-08"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice",
+            "rescheduledFrom": "2026-04-08"
+          }
+        ],
+        "leaveReason": "NPTEL Exam"
+      }
+    ],
+    "daysByDate": {
+      "2026-04-06": {
+        "classes": [],
+        "status": "absent",
+        "dayNumber": 1,
+        "date": "2026-04-06T18:30:00.000Z",
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "missedClasses": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      "2026-04-07": {
+        "classes": [],
+        "status": "approved",
+        "dayNumber": 2,
+        "date": "2026-04-07T18:30:00.000Z",
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "missedClasses": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      "2026-04-08": {
+        "classes": [],
+        "status": "approved",
+        "dayNumber": 3,
+        "date": "2026-04-08T18:30:00.000Z",
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "missedClasses": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice"
+          }
+        ]
+      },
+      "2026-04-09": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "DOM events and interactive components",
+            "description": "FSD session focused on dom events and interactive components.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Classification models and evaluation",
+            "description": "ML session focused on classification models and evaluation.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Hash maps and set operations",
+            "description": "DS session focused on hash maps and set operations.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 4,
+        "date": "2026-04-09T18:30:00.000Z"
+      },
+      "2026-04-10": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React component structure and props",
+            "description": "FSD session focused on react component structure and props.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model metrics and validation strategies",
+            "description": "ML session focused on model metrics and validation strategies.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Trees and traversal methods",
+            "description": "DS session focused on trees and traversal methods.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 5,
+        "date": "2026-04-10T18:30:00.000Z"
+      },
+      "2026-04-11": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React state, forms, and controlled inputs",
+            "description": "FSD session focused on react state, forms, and controlled inputs.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Feature engineering and tuning",
+            "description": "ML session focused on feature engineering and tuning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Binary search trees and balancing concepts",
+            "description": "DS session focused on binary search trees and balancing concepts.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 6,
+        "date": "2026-04-11T18:30:00.000Z"
+      },
+      "2026-04-12": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Routing and multi-page application flow",
+            "description": "FSD session focused on routing and multi-page application flow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Decision trees and ensemble methods",
+            "description": "ML session focused on decision trees and ensemble methods.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Graphs, BFS, and DFS",
+            "description": "DS session focused on graphs, bfs, and dfs.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 7,
+        "date": "2026-04-12T18:30:00.000Z"
+      },
+      "2026-04-13": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "API integration and async data loading",
+            "description": "FSD session focused on api integration and async data loading.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Clustering and unsupervised learning",
+            "description": "ML session focused on clustering and unsupervised learning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Greedy techniques and recursion patterns",
+            "description": "DS session focused on greedy techniques and recursion patterns.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 8,
+        "date": "2026-04-13T18:30:00.000Z"
+      },
+      "2026-04-14": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Authentication flow and protected routes",
+            "description": "FSD session focused on authentication flow and protected routes.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model interpretation and bias checks",
+            "description": "ML session focused on model interpretation and bias checks.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Dynamic programming foundations",
+            "description": "DS session focused on dynamic programming foundations.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 9,
+        "date": "2026-04-14T18:30:00.000Z"
+      },
+      "2026-04-15": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "UI polishing, testing, and deployment",
+            "description": "FSD session focused on ui polishing, testing, and deployment.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Mini project review and recap",
+            "description": "ML session focused on mini project review and recap.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Mock coding practice and revision",
+            "description": "DS session focused on mock coding practice and revision.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 10,
+        "date": "2026-04-15T18:30:00.000Z"
+      },
+      "2026-04-16": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 11,
+        "date": "2026-04-16T18:30:00.000Z"
+      },
+      "2026-04-17": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 12,
+        "date": "2026-04-17T18:30:00.000Z"
+      },
+      "2026-04-18": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 13,
+        "date": "2026-04-18T18:30:00.000Z"
+      },
+      "2026-04-19": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "DOM events and interactive components",
+            "description": "FSD session focused on dom events and interactive components.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Classification models and evaluation",
+            "description": "ML session focused on classification models and evaluation.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Hash maps and set operations",
+            "description": "DS session focused on hash maps and set operations.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 14,
+        "date": "2026-04-19T18:30:00.000Z"
+      },
+      "2026-04-20": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React component structure and props",
+            "description": "FSD session focused on react component structure and props.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model metrics and validation strategies",
+            "description": "ML session focused on model metrics and validation strategies.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Trees and traversal methods",
+            "description": "DS session focused on trees and traversal methods.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 15,
+        "date": "2026-04-20T18:30:00.000Z"
+      },
+      "2026-04-21": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React state, forms, and controlled inputs",
+            "description": "FSD session focused on react state, forms, and controlled inputs.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Feature engineering and tuning",
+            "description": "ML session focused on feature engineering and tuning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Binary search trees and balancing concepts",
+            "description": "DS session focused on binary search trees and balancing concepts.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 16,
+        "date": "2026-04-21T18:30:00.000Z"
+      },
+      "2026-04-22": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Routing and multi-page application flow",
+            "description": "FSD session focused on routing and multi-page application flow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Decision trees and ensemble methods",
+            "description": "ML session focused on decision trees and ensemble methods.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Graphs, BFS, and DFS",
+            "description": "DS session focused on graphs, bfs, and dfs.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 17,
+        "date": "2026-04-22T18:30:00.000Z"
+      },
+      "2026-04-23": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "API integration and async data loading",
+            "description": "FSD session focused on api integration and async data loading.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Clustering and unsupervised learning",
+            "description": "ML session focused on clustering and unsupervised learning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Greedy techniques and recursion patterns",
+            "description": "DS session focused on greedy techniques and recursion patterns.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 18,
+        "date": "2026-04-23T18:30:00.000Z"
+      },
+      "2026-04-24": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Authentication flow and protected routes",
+            "description": "FSD session focused on authentication flow and protected routes.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model interpretation and bias checks",
+            "description": "ML session focused on model interpretation and bias checks.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Dynamic programming foundations",
+            "description": "DS session focused on dynamic programming foundations.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 19,
+        "date": "2026-04-24T18:30:00.000Z"
+      },
+      "2026-04-25": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "UI polishing, testing, and deployment",
+            "description": "FSD session focused on ui polishing, testing, and deployment.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Mini project review and recap",
+            "description": "ML session focused on mini project review and recap.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Mock coding practice and revision",
+            "description": "DS session focused on mock coding practice and revision.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 20,
+        "date": "2026-04-25T18:30:00.000Z"
+      },
+      "2026-04-26": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 21,
+        "date": "2026-04-26T18:30:00.000Z"
+      },
+      "2026-04-27": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 22,
+        "date": "2026-04-27T18:30:00.000Z"
+      },
+      "2026-04-28": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 23,
+        "date": "2026-04-28T18:30:00.000Z"
+      },
+      "2026-04-29": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "DOM events and interactive components",
+            "description": "FSD session focused on dom events and interactive components.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Classification models and evaluation",
+            "description": "ML session focused on classification models and evaluation.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Hash maps and set operations",
+            "description": "DS session focused on hash maps and set operations.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 24,
+        "date": "2026-04-29T18:30:00.000Z"
+      },
+      "2026-04-30": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React component structure and props",
+            "description": "FSD session focused on react component structure and props.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model metrics and validation strategies",
+            "description": "ML session focused on model metrics and validation strategies.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Trees and traversal methods",
+            "description": "DS session focused on trees and traversal methods.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 25,
+        "date": "2026-04-30T18:30:00.000Z"
+      },
+      "2026-05-01": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "React state, forms, and controlled inputs",
+            "description": "FSD session focused on react state, forms, and controlled inputs.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Feature engineering and tuning",
+            "description": "ML session focused on feature engineering and tuning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Binary search trees and balancing concepts",
+            "description": "DS session focused on binary search trees and balancing concepts.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 26,
+        "date": "2026-05-01T18:30:00.000Z"
+      },
+      "2026-05-02": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Routing and multi-page application flow",
+            "description": "FSD session focused on routing and multi-page application flow.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Decision trees and ensemble methods",
+            "description": "ML session focused on decision trees and ensemble methods.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Graphs, BFS, and DFS",
+            "description": "DS session focused on graphs, bfs, and dfs.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 27,
+        "date": "2026-05-02T18:30:00.000Z"
+      },
+      "2026-05-03": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "API integration and async data loading",
+            "description": "FSD session focused on api integration and async data loading.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Clustering and unsupervised learning",
+            "description": "ML session focused on clustering and unsupervised learning.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Greedy techniques and recursion patterns",
+            "description": "DS session focused on greedy techniques and recursion patterns.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 28,
+        "date": "2026-05-03T18:30:00.000Z"
+      },
+      "2026-05-04": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "Authentication flow and protected routes",
+            "description": "FSD session focused on authentication flow and protected routes.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Model interpretation and bias checks",
+            "description": "ML session focused on model interpretation and bias checks.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Dynamic programming foundations",
+            "description": "DS session focused on dynamic programming foundations.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 29,
+        "date": "2026-05-04T18:30:00.000Z"
+      },
+      "2026-05-05": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "UI polishing, testing, and deployment",
+            "description": "FSD session focused on ui polishing, testing, and deployment.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Mini project review and recap",
+            "description": "ML session focused on mini project review and recap.",
+            "deliveryType": "theory"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Mock coding practice and revision",
+            "description": "DS session focused on mock coding practice and revision.",
+            "deliveryType": "practice"
+          }
+        ],
+        "status": "scheduled",
+        "dayNumber": 30,
+        "date": "2026-05-05T18:30:00.000Z"
+      },
+      "2026-05-06": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "HTML semantics and page structure",
+            "description": "FSD session focused on html semantics and page structure.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-06"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Introduction to machine learning workflow",
+            "description": "ML session focused on introduction to machine learning workflow.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-06"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Arrays, strings, and complexity review",
+            "description": "DS session focused on arrays, strings, and complexity review.",
+            "deliveryType": "practice",
+            "rescheduledFrom": "2026-04-06"
+          }
+        ],
+        "status": "rescheduled",
+        "dayNumber": 31,
+        "date": "2026-05-06T18:30:00.000Z",
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "rescheduledFrom": "2026-04-06"
+      },
+      "2026-05-07": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "CSS layouts and responsive design",
+            "description": "FSD session focused on css layouts and responsive design.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-07"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Data preprocessing and feature handling",
+            "description": "ML session focused on data preprocessing and feature handling.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-07"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Linked lists and pointer techniques",
+            "description": "DS session focused on linked lists and pointer techniques.",
+            "deliveryType": "practice",
+            "rescheduledFrom": "2026-04-07"
+          }
+        ],
+        "status": "rescheduled",
+        "dayNumber": 32,
+        "date": "2026-05-07T18:30:00.000Z",
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "rescheduledFrom": "2026-04-07"
+      },
+      "2026-05-08": {
+        "classes": [
+          {
+            "subject": "FSD",
+            "slot": "Class 1",
+            "topic": "JavaScript fundamentals for UI behavior",
+            "description": "FSD session focused on javascript fundamentals for ui behavior.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-08"
+          },
+          {
+            "subject": "ML",
+            "slot": "Class 2",
+            "topic": "Supervised learning and regression basics",
+            "description": "ML session focused on supervised learning and regression basics.",
+            "deliveryType": "theory",
+            "rescheduledFrom": "2026-04-08"
+          },
+          {
+            "subject": "DS",
+            "slot": "Class 3",
+            "topic": "Stacks, queues, and practical usage",
+            "description": "DS session focused on stacks, queues, and practical usage.",
+            "deliveryType": "practice",
+            "rescheduledFrom": "2026-04-08"
+          }
+        ],
+        "status": "rescheduled",
+        "dayNumber": 33,
+        "date": "2026-05-08T18:30:00.000Z",
+        "leaveId": "roqulztxs",
+        "leaveReason": "NPTEL Exam",
+        "rescheduledFrom": "2026-04-08"
+      }
+    },
+    "guidance": {
+      "summary": "Thirty-day academic calendar with fixed daily FSD, ML, and DS coverage.",
+      "weeklyFocus": [
+        "Week 1: establish fundamentals",
+        "Week 2: build applied confidence",
+        "Week 3: strengthen weak areas",
+        "Week 4: revision and consolidation"
+      ]
+    },
+    "updatedAt": "2026-04-07T04:29:58.204Z"
+  }
+]
