@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  # Development Application Service
+  app-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: student-leave-app-dev
+    
+    # Port mapping
+    ports:
+      - "5173:5173"      # Frontend (Vite)
+      - "3001:3001"      # Backend API
+    
+    # Environment variables for development
+    environment:
+      - NODE_ENV=development
+      - PORT=3001
+      - CLIENT_ORIGIN=http://localhost:5173
+      - VITE_API_URL=http://localhost:3001/api
+      - VITE_FIREBASE_API_KEY=${FIREBASE_API_KEY}
+      - VITE_FIREBASE_AUTH_DOMAIN=${FIREBASE_AUTH_DOMAIN}
+      - VITE_FIREBASE_PROJECT_ID=${FIREBASE_PROJECT_ID}
+      - VITE_FIREBASE_STORAGE_BUCKET=${FIREBASE_STORAGE_BUCKET}
+      - VITE_FIREBASE_MESSAGING_SENDER_ID=${FIREBASE_MESSAGING_SENDER_ID}
+      - VITE_FIREBASE_APP_ID=${FIREBASE_APP_ID}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - GROQ_MODEL=llama-3.1-8b-instant
+    
+    # Volume mounts for hot reload
+    volumes:
+      - .:/app
+      - /app/node_modules  # Prevent node_modules from being overwritten
+    
+    # Restart policy
+    restart: unless-stopped
+    
+    # Network
+    networks:
+      - student-leave-dev-network
+
+# Network for development
+networks:
+  student-leave-dev-network:
+    driver: bridge
